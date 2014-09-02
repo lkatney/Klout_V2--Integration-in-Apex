@@ -6,6 +6,10 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Klout_Setup__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
         <members>Klout_UserDetails</members>
         <members>Klout_UserInfluence</members>
         <members>Klout_UserScore</members>
