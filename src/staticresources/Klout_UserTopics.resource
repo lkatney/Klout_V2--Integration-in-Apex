@@ -1,0 +1,41 @@
+[{
+    "id": "5735208401828129623",
+    "displayName": "Salesforce",
+    "name": "Salesforce",
+    "slug": "salesforce",
+    "imageUrl": "http://kcdn3.klout.com/static/images/topics/salesforce_eda6a4b9a25af92dbcd4654f582d9f03.png",
+    "displayType": "visible",
+    "topicType": "entity"
+}, {
+    "id": "8953596916026307240",
+    "displayName": "Sales",
+    "name": "Sales",
+    "slug": "sales",
+    "imageUrl": "http://kcdn3.klout.com/static/images/topics/sales_16e0d5cc9cf776174d63cc800ce3d388.png",
+    "displayType": "visible",
+    "topicType": "sub"
+}, {
+    "id": "6011700363202204797",
+    "displayName": "Business",
+    "name": "Business",
+    "slug": "business-sub",
+    "imageUrl": "http://kcdn3.klout.com/static/images/business-1365724488869.jpg",
+    "displayType": "visible",
+    "topicType": "sub"
+}, {
+    "id": "9077020298557225883",
+    "displayName": "CRM",
+    "name": "CRM",
+    "slug": "crm",
+    "imageUrl": "http://kcdn3.klout.com/static/images/icons/generic-topic.png",
+    "displayType": "visible",
+    "topicType": "sub"
+}, {
+    "id": "5646379875885211920",
+    "displayName": "Technology",
+    "name": "Technology",
+    "slug": "technology-sub",
+    "imageUrl": "http://kcdn3.klout.com/static/images/technology-1367972636528.jpg",
+    "displayType": "visible",
+    "topicType": "sub"
+}]

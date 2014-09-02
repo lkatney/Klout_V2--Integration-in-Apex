@@ -51,6 +51,20 @@
             "xmlName": "Queue"
         }, 
         {
+            "directoryName": "roles", 
+            "inFolder": false, 
+            "metaFile": false, 
+            "suffix": "role", 
+            "xmlName": "Role"
+        }, 
+        {
+            "directoryName": "groups", 
+            "inFolder": false, 
+            "metaFile": false, 
+            "suffix": "group", 
+            "xmlName": "Group"
+        }, 
+        {
             "childXmlNames": [
                 "CustomField", 
                 "BusinessProcess", 
@@ -58,11 +72,9 @@
                 "RecordType", 
                 "WebLink", 
                 "ValidationRule", 
-                "NamedFilter", 
                 "SharingReason", 
                 "ListView", 
-                "FieldSet", 
-                "ApexTriggerCoupling"
+                "FieldSet"
             ], 
             "directoryName": "objects", 
             "inFolder": false, 
@@ -126,9 +138,6 @@
             "xmlName": "QuickAction"
         }, 
         {
-            "childXmlNames": {
-                "@xsi:nil": "true"
-            }, 
             "directoryName": "flexipages", 
             "inFolder": false, 
             "metaFile": false, 
@@ -178,21 +187,22 @@
             "xmlName": "EmailTemplate"
         }, 
         {
+            "directoryName": "flows", 
+            "inFolder": false, 
+            "metaFile": false, 
+            "suffix": "flow", 
+            "xmlName": "Flow"
+        }, 
+        {
             "childXmlNames": [
                 "WorkflowFieldUpdate", 
                 "WorkflowKnowledgePublish", 
-                "WorkflowQuickCreate", 
                 "WorkflowTask", 
-                "WorkflowChatterPost", 
                 "WorkflowAlert", 
                 "WorkflowSend", 
                 "WorkflowOutboundMessage", 
-                "WorkflowActionFlow", 
-                "WorkflowApex", 
-                "WorkflowRule", 
-                {
-                    "@xsi:nil": "true"
-                }
+                "WorkflowFlowAction", 
+                "WorkflowRule"
             ], 
             "directoryName": "workflows", 
             "inFolder": false, 
@@ -223,20 +233,6 @@
             "metaFile": false, 
             "suffix": "escalationRules", 
             "xmlName": "EscalationRules"
-        }, 
-        {
-            "directoryName": "roles", 
-            "inFolder": false, 
-            "metaFile": false, 
-            "suffix": "role", 
-            "xmlName": "Role"
-        }, 
-        {
-            "directoryName": "groups", 
-            "inFolder": false, 
-            "metaFile": false, 
-            "suffix": "group", 
-            "xmlName": "Group"
         }, 
         {
             "directoryName": "postTemplates", 
@@ -272,13 +268,6 @@
             "metaFile": false, 
             "suffix": "objectTranslation", 
             "xmlName": "CustomObjectTranslation"
-        }, 
-        {
-            "directoryName": "flows", 
-            "inFolder": false, 
-            "metaFile": false, 
-            "suffix": "flow", 
-            "xmlName": "Flow"
         }, 
         {
             "directoryName": "classes", 
@@ -425,6 +414,13 @@
             "xmlName": "UserSharingRules"
         }, 
         {
+            "directoryName": "sharingSets", 
+            "inFolder": false, 
+            "metaFile": false, 
+            "suffix": "sharingSet", 
+            "xmlName": "SharingSet"
+        }, 
+        {
             "directoryName": "communities", 
             "inFolder": false, 
             "metaFile": false, 
@@ -465,6 +461,20 @@
             "metaFile": false, 
             "suffix": "connectedApp", 
             "xmlName": "ConnectedApp"
+        }, 
+        {
+            "directoryName": "appMenus", 
+            "inFolder": false, 
+            "metaFile": false, 
+            "suffix": "appMenu", 
+            "xmlName": "AppMenu"
+        }, 
+        {
+            "directoryName": "siteDotComSites", 
+            "inFolder": false, 
+            "metaFile": true, 
+            "suffix": "site", 
+            "xmlName": "SiteDotCom"
         }, 
         {
             "directoryName": "networks", 

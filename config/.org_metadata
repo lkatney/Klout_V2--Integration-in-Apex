@@ -585,6 +585,18 @@
             }, 
             {
                 "leaf": true, 
+                "title": "GetRichTextAreaWithImagesJob", 
+                "checked": false, 
+                "id": "ApexClass.GetRichTextAreaWithImagesJob", 
+                "text": "GetRichTextAreaWithImagesJob", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "HTTPCalloutstaticClass", 
                 "checked": false, 
                 "id": "ApexClass.HTTPCalloutstaticClass", 
@@ -697,6 +709,42 @@
                 "checked": false, 
                 "id": "ApexClass.JLT_Test_Controller", 
                 "text": "JLT_Test_Controller", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "Klout", 
+                "checked": false, 
+                "id": "ApexClass.Klout", 
+                "text": "Klout", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "KloutInformationManager", 
+                "checked": false, 
+                "id": "ApexClass.KloutInformationManager", 
+                "text": "KloutInformationManager", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "KloutTest", 
+                "checked": false, 
+                "id": "ApexClass.KloutTest", 
+                "text": "KloutTest", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -877,6 +925,18 @@
                 "checked": false, 
                 "id": "ApexClass.MyextensionTest", 
                 "text": "MyextensionTest", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "NewAndExistingController", 
+                "checked": false, 
+                "id": "ApexClass.NewAndExistingController", 
+                "text": "NewAndExistingController", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -1281,6 +1341,18 @@
             }, 
             {
                 "leaf": true, 
+                "title": "TestScheduledApexFromTestMethod", 
+                "checked": false, 
+                "id": "ApexClass.TestScheduledApexFromTestMethod", 
+                "text": "TestScheduledApexFromTestMethod", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "TestUtil", 
                 "checked": false, 
                 "id": "ApexClass.TestUtil", 
@@ -1513,6 +1585,18 @@
                 "checked": false, 
                 "id": "ApexClass.collectid", 
                 "text": "collectid", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "compositionExample", 
+                "checked": false, 
+                "id": "ApexClass.compositionExample", 
+                "text": "compositionExample", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -2001,6 +2085,18 @@
             }, 
             {
                 "leaf": true, 
+                "title": "selectedSizeWorkaround", 
+                "checked": false, 
+                "id": "ApexClass.selectedSizeWorkaround", 
+                "text": "selectedSizeWorkaround", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "sharing_accesstest", 
                 "checked": false, 
                 "id": "ApexClass.sharing_accesstest", 
@@ -2017,6 +2113,18 @@
                 "checked": false, 
                 "id": "ApexClass.show", 
                 "text": "show", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "showRichTextAreaImagesController", 
+                "checked": false, 
+                "id": "ApexClass.showRichTextAreaImagesController", 
+                "text": "showRichTextAreaImagesController", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -2065,18 +2173,6 @@
                 "checked": false, 
                 "id": "ApexClass.tenPageSizeExt", 
                 "text": "tenPageSizeExt", 
-                "level": 2, 
-                "isFolder": false, 
-                "children": [], 
-                "select": false, 
-                "cls": ""
-            }, 
-            {
-                "leaf": true, 
-                "title": "test", 
-                "checked": false, 
-                "id": "ApexClass.test", 
-                "text": "test", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -2305,6 +2401,18 @@
                 "checked": false, 
                 "id": "ApexClass.wrapper", 
                 "text": "wrapper", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "wrapperCOnversionToArray", 
+                "checked": false, 
+                "id": "ApexClass.wrapperCOnversionToArray", 
+                "text": "wrapperCOnversionToArray", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -2551,6 +2659,18 @@
             "metaFile": true
         }, 
         "children": [
+            {
+                "leaf": true, 
+                "title": "AccountEditablePage", 
+                "checked": false, 
+                "id": "ApexPage.AccountEditablePage", 
+                "text": "AccountEditablePage", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
             {
                 "leaf": true, 
                 "title": "AccountName", 
@@ -3553,6 +3673,18 @@
                 "checked": false, 
                 "id": "ApexPage.MycontrollerPage", 
                 "text": "MycontrollerPage", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "NewAndExistingPage", 
+                "checked": false, 
+                "id": "ApexPage.NewAndExistingPage", 
+                "text": "NewAndExistingPage", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -4569,6 +4701,54 @@
             }, 
             {
                 "leaf": true, 
+                "title": "massupdatestages", 
+                "checked": false, 
+                "id": "ApexPage.massupdatestages", 
+                "text": "massupdatestages", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "myAgelessForm", 
+                "checked": false, 
+                "id": "ApexPage.myAgelessForm", 
+                "text": "myAgelessForm", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "myFormComposition", 
+                "checked": false, 
+                "id": "ApexPage.myFormComposition", 
+                "text": "myFormComposition", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "myFullForm", 
+                "checked": false, 
+                "id": "ApexPage.myFullForm", 
+                "text": "myFullForm", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "myaccount", 
                 "checked": false, 
                 "id": "ApexPage.myaccount", 
@@ -4665,6 +4845,18 @@
             }, 
             {
                 "leaf": true, 
+                "title": "remoteobjectTest", 
+                "checked": false, 
+                "id": "ApexPage.remoteobjectTest", 
+                "text": "remoteobjectTest", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "richtextarea", 
                 "checked": false, 
                 "id": "ApexPage.richtextarea", 
@@ -4705,6 +4897,18 @@
                 "checked": false, 
                 "id": "ApexPage.search", 
                 "text": "search", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "showRichTextAreaImages", 
+                "checked": false, 
+                "id": "ApexPage.showRichTextAreaImages", 
+                "text": "showRichTextAreaImages", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -4909,6 +5113,18 @@
                 "checked": false, 
                 "id": "ApexPage.web_feed", 
                 "text": "web_feed", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "wrapperConversiontArrayTest", 
+                "checked": false, 
+                "id": "ApexPage.wrapperConversiontArrayTest", 
+                "text": "wrapperConversiontArrayTest", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 
@@ -5662,11 +5878,9 @@
                 "RecordType", 
                 "WebLink", 
                 "ValidationRule", 
-                "NamedFilter", 
                 "SharingReason", 
                 "ListView", 
-                "FieldSet", 
-                "ApexTriggerCoupling"
+                "FieldSet"
             ], 
             "xmlName": "CustomObject", 
             "directoryName": "objects"
@@ -6736,6 +6950,41 @@
             }, 
             {
                 "leaf": false, 
+                "title": "Bug__c", 
+                "checked": false, 
+                "id": "CustomObject.Bug__c", 
+                "text": "Bug__c", 
+                "level": 2, 
+                "isFolder": true, 
+                "children": [
+                    {
+                        "checked": false, 
+                        "level": 3, 
+                        "id": "CustomObject.Bug__c.listViews", 
+                        "text": "listViews", 
+                        "title": "listViews", 
+                        "isFolder": true, 
+                        "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "All", 
+                                "title": "All", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Bug__c.listViews.All", 
+                                "select": false
+                            }
+                        ], 
+                        "select": false, 
+                        "cls": "folder"
+                    }
+                ], 
+                "select": false, 
+                "cls": "folder"
+            }, 
+            {
+                "leaf": false, 
                 "title": "CAS__c", 
                 "checked": false, 
                 "id": "CustomObject.CAS__c", 
@@ -7323,6 +7572,16 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "Custom_date_field__c", 
+                                "title": "Custom_date_field__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Case.fields.Custom_date_field__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "EngineeringReqNumber__c", 
                                 "title": "EngineeringReqNumber__c", 
                                 "isFolder": false, 
@@ -7527,6 +7786,16 @@
                                 "title": "Type__c", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Case.fields.Type__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "X3_months_after__c", 
+                                "title": "X3_months_after__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Case.fields.X3_months_after__c", 
                                 "select": false
                             }
                         ], 
@@ -7819,6 +8088,16 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "BusinessHoursId", 
+                                "title": "BusinessHoursId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.CaseMilestone.fields.BusinessHoursId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "CaseId", 
                                 "title": "CaseId", 
                                 "isFolder": false, 
@@ -7926,6 +8205,16 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "Influenced_By__c", 
+                                "title": "Influenced_By__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Contact.fields.Influenced_By__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "Languages__c", 
                                 "title": "Languages__c", 
                                 "isFolder": false, 
@@ -7966,6 +8255,16 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "Most_Discussed_Topics__c", 
+                                "title": "Most_Discussed_Topics__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Contact.fields.Most_Discussed_Topics__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "OwnerId", 
                                 "title": "OwnerId", 
                                 "isFolder": false, 
@@ -7996,10 +8295,30 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "Score__c", 
+                                "title": "Score__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Contact.fields.Score__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "Selected_Values__c", 
                                 "title": "Selected_Values__c", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Contact.fields.Selected_Values__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "Twitter_Username__c", 
+                                "title": "Twitter_Username__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Contact.fields.Twitter_Username__c", 
                                 "select": false
                             }, 
                             {
@@ -8488,6 +8807,16 @@
                                 "title": "Product2Id", 
                                 "isFolder": false, 
                                 "id": "CustomObject.ContractLineItem.fields.Product2Id", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "ServiceContractId", 
+                                "title": "ServiceContractId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.ContractLineItem.fields.ServiceContractId", 
                                 "select": false
                             }
                         ], 
@@ -9183,28 +9512,6 @@
                     {
                         "checked": false, 
                         "level": 3, 
-                        "id": "CustomObject.Disaster__c.namedFilters", 
-                        "text": "namedFilters", 
-                        "title": "namedFilters", 
-                        "isFolder": true, 
-                        "children": [
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "nf_01I90000000aH1ZEAU_00N90000003Bh0OEAS", 
-                                "title": "nf_01I90000000aH1ZEAU_00N90000003Bh0OEAS", 
-                                "isFolder": false, 
-                                "id": "CustomObject.Disaster__c.namedFilters.nf_01I90000000aH1ZEAU_00N90000003Bh0OEAS", 
-                                "select": false
-                            }
-                        ], 
-                        "select": false, 
-                        "cls": "folder"
-                    }, 
-                    {
-                        "checked": false, 
-                        "level": 3, 
                         "id": "CustomObject.Disaster__c.recordTypes", 
                         "text": "recordTypes", 
                         "title": "recordTypes", 
@@ -9275,6 +9582,16 @@
                         "title": "fields", 
                         "isFolder": true, 
                         "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "AccountId", 
+                                "title": "AccountId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Entitlement.fields.AccountId", 
+                                "select": false
+                            }, 
                             {
                                 "leaf": true, 
                                 "checked": false, 
@@ -9373,7 +9690,40 @@
                 "text": "EntitlementContact", 
                 "level": 2, 
                 "isFolder": true, 
-                "children": [], 
+                "children": [
+                    {
+                        "checked": false, 
+                        "level": 3, 
+                        "id": "CustomObject.EntitlementContact.fields", 
+                        "text": "fields", 
+                        "title": "fields", 
+                        "isFolder": true, 
+                        "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "ContactId", 
+                                "title": "ContactId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.EntitlementContact.fields.ContactId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "EntitlementId", 
+                                "title": "EntitlementId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.EntitlementContact.fields.EntitlementId", 
+                                "select": false
+                            }
+                        ], 
+                        "select": false, 
+                        "cls": "folder"
+                    }
+                ], 
                 "select": false, 
                 "cls": "folder"
             }, 
@@ -9701,28 +10051,6 @@
                         ], 
                         "select": false, 
                         "cls": "folder"
-                    }, 
-                    {
-                        "checked": false, 
-                        "level": 3, 
-                        "id": "CustomObject.Geologist__c.namedFilters", 
-                        "text": "namedFilters", 
-                        "title": "namedFilters", 
-                        "isFolder": true, 
-                        "children": [
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "nf_01I90000000aH1ZEAU_00N90000003Bh0rEAC", 
-                                "title": "nf_01I90000000aH1ZEAU_00N90000003Bh0rEAC", 
-                                "isFolder": false, 
-                                "id": "CustomObject.Geologist__c.namedFilters.nf_01I90000000aH1ZEAU_00N90000003Bh0rEAC", 
-                                "select": false
-                            }
-                        ], 
-                        "select": false, 
-                        "cls": "folder"
                     }
                 ], 
                 "select": false, 
@@ -9906,6 +10234,51 @@
             }, 
             {
                 "leaf": false, 
+                "title": "Klout_Setup__c", 
+                "checked": false, 
+                "id": "CustomObject.Klout_Setup__c", 
+                "text": "Klout_Setup__c", 
+                "level": 2, 
+                "isFolder": true, 
+                "children": [
+                    {
+                        "checked": false, 
+                        "level": 3, 
+                        "id": "CustomObject.Klout_Setup__c.fields", 
+                        "text": "fields", 
+                        "title": "fields", 
+                        "isFolder": true, 
+                        "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "API_KEY__c", 
+                                "title": "API_KEY__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Klout_Setup__c.fields.API_KEY__c", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "URI__c", 
+                                "title": "URI__c", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Klout_Setup__c.fields.URI__c", 
+                                "select": false
+                            }
+                        ], 
+                        "select": false, 
+                        "cls": "folder"
+                    }
+                ], 
+                "select": false, 
+                "cls": "folder"
+            }, 
+            {
+                "leaf": false, 
                 "title": "Lead", 
                 "checked": false, 
                 "id": "CustomObject.Lead", 
@@ -10061,6 +10434,16 @@
                                 "title": "OwnerId", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Lead.fields.OwnerId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "PartnerAccountId", 
+                                "title": "PartnerAccountId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Lead.fields.PartnerAccountId", 
                                 "select": false
                             }, 
                             {
@@ -10626,6 +11009,16 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "ContractId", 
+                                "title": "ContractId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Opportunity.fields.ContractId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "CurrentGenerators__c", 
                                 "title": "CurrentGenerators__c", 
                                 "isFolder": false, 
@@ -10700,6 +11093,16 @@
                                 "title": "OwnerId", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Opportunity.fields.OwnerId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "PartnerAccountId", 
+                                "title": "PartnerAccountId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Opportunity.fields.PartnerAccountId", 
                                 "select": false
                             }, 
                             {
@@ -10894,6 +11297,16 @@
                                 "title": "DeliveryStatus", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Opportunity.webLinks.DeliveryStatus", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "Mass_Update_Stages", 
+                                "title": "Mass_Update_Stages", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Opportunity.webLinks.Mass_Update_Stages", 
                                 "select": false
                             }
                         ], 
@@ -11133,6 +11546,51 @@
             }, 
             {
                 "leaf": false, 
+                "title": "PricebookEntry", 
+                "checked": false, 
+                "id": "CustomObject.PricebookEntry", 
+                "text": "PricebookEntry", 
+                "level": 2, 
+                "isFolder": true, 
+                "children": [
+                    {
+                        "checked": false, 
+                        "level": 3, 
+                        "id": "CustomObject.PricebookEntry.fields", 
+                        "text": "fields", 
+                        "title": "fields", 
+                        "isFolder": true, 
+                        "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "Pricebook2Id", 
+                                "title": "Pricebook2Id", 
+                                "isFolder": false, 
+                                "id": "CustomObject.PricebookEntry.fields.Pricebook2Id", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "Product2Id", 
+                                "title": "Product2Id", 
+                                "isFolder": false, 
+                                "id": "CustomObject.PricebookEntry.fields.Product2Id", 
+                                "select": false
+                            }
+                        ], 
+                        "select": false, 
+                        "cls": "folder"
+                    }
+                ], 
+                "select": false, 
+                "cls": "folder"
+            }, 
+            {
+                "leaf": false, 
                 "title": "Product2", 
                 "checked": false, 
                 "id": "CustomObject.Product2", 
@@ -11266,30 +11724,10 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
-                                "text": "BestReplyId", 
-                                "title": "BestReplyId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.Question.fields.BestReplyId", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
                                 "text": "BestReplySelectedById", 
                                 "title": "BestReplySelectedById", 
                                 "isFolder": false, 
                                 "id": "CustomObject.Question.fields.BestReplySelectedById", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "LastReplyId", 
-                                "title": "LastReplyId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.Question.fields.LastReplyId", 
                                 "select": false
                             }, 
                             {
@@ -11418,6 +11856,26 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
+                                "text": "ContractId", 
+                                "title": "ContractId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Quote.fields.ContractId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "OpportunityId", 
+                                "title": "OpportunityId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.Quote.fields.OpportunityId", 
+                                "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
                                 "text": "Status", 
                                 "title": "Status", 
                                 "isFolder": false, 
@@ -11458,6 +11916,16 @@
                                 "isFolder": false, 
                                 "id": "CustomObject.QuoteLineItem.fields.Product2Id", 
                                 "select": false
+                            }, 
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "QuoteId", 
+                                "title": "QuoteId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.QuoteLineItem.fields.QuoteId", 
+                                "select": false
                             }
                         ], 
                         "select": false, 
@@ -11475,30 +11943,7 @@
                 "text": "Reply", 
                 "level": 2, 
                 "isFolder": true, 
-                "children": [
-                    {
-                        "checked": false, 
-                        "level": 3, 
-                        "id": "CustomObject.Reply.fields", 
-                        "text": "fields", 
-                        "title": "fields", 
-                        "isFolder": true, 
-                        "children": [
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "CommunityId", 
-                                "title": "CommunityId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.Reply.fields.CommunityId", 
-                                "select": false
-                            }
-                        ], 
-                        "select": false, 
-                        "cls": "folder"
-                    }
-                ], 
+                "children": [], 
                 "select": false, 
                 "cls": "folder"
             }, 
@@ -11684,7 +12129,30 @@
                 "text": "SocialPersona", 
                 "level": 2, 
                 "isFolder": true, 
-                "children": [], 
+                "children": [
+                    {
+                        "checked": false, 
+                        "level": 3, 
+                        "id": "CustomObject.SocialPersona.fields", 
+                        "text": "fields", 
+                        "title": "fields", 
+                        "isFolder": true, 
+                        "children": [
+                            {
+                                "leaf": true, 
+                                "checked": false, 
+                                "level": 4, 
+                                "text": "ParentId", 
+                                "title": "ParentId", 
+                                "isFolder": false, 
+                                "id": "CustomObject.SocialPersona.fields.ParentId", 
+                                "select": false
+                            }
+                        ], 
+                        "select": false, 
+                        "cls": "folder"
+                    }
+                ], 
                 "select": false, 
                 "cls": "folder"
             }, 
@@ -12015,40 +12483,10 @@
                                 "leaf": true, 
                                 "checked": false, 
                                 "level": 4, 
-                                "text": "CallCenterId", 
-                                "title": "CallCenterId", 
+                                "text": "ManagerId", 
+                                "title": "ManagerId", 
                                 "isFolder": false, 
-                                "id": "CustomObject.User.fields.CallCenterId", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "ContactId", 
-                                "title": "ContactId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.User.fields.ContactId", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "DelegatedApproverId", 
-                                "title": "DelegatedApproverId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.User.fields.DelegatedApproverId", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "ProfileId", 
-                                "title": "ProfileId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.User.fields.ProfileId", 
+                                "id": "CustomObject.User.fields.ManagerId", 
                                 "select": false
                             }, 
                             {
@@ -12059,26 +12497,6 @@
                                 "title": "TestField__c", 
                                 "isFolder": false, 
                                 "id": "CustomObject.User.fields.TestField__c", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "UserRoleId", 
-                                "title": "UserRoleId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.User.fields.UserRoleId", 
-                                "select": false
-                            }, 
-                            {
-                                "leaf": true, 
-                                "checked": false, 
-                                "level": 4, 
-                                "text": "WorkspaceId", 
-                                "title": "WorkspaceId", 
-                                "isFolder": false, 
-                                "id": "CustomObject.User.fields.WorkspaceId", 
                                 "select": false
                             }, 
                             {
@@ -12777,6 +13195,18 @@
             }, 
             {
                 "leaf": true, 
+                "title": "Cross Org Data Proxy User", 
+                "checked": false, 
+                "id": "Profile.CrossOrgDataProxyUser", 
+                "text": "Cross Org Data Proxy User", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
                 "title": "Custom%3A Marketing Profile", 
                 "checked": false, 
                 "id": "Profile.Custom%3AMarketingProfile", 
@@ -13213,6 +13643,54 @@
                 "checked": false, 
                 "id": "StaticResource.Jquery10", 
                 "text": "Jquery10", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "Klout_UserDetails", 
+                "checked": false, 
+                "id": "StaticResource.Klout_UserDetails", 
+                "text": "Klout_UserDetails", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "Klout_UserInfluence", 
+                "checked": false, 
+                "id": "StaticResource.Klout_UserInfluence", 
+                "text": "Klout_UserInfluence", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "Klout_UserScore", 
+                "checked": false, 
+                "id": "StaticResource.Klout_UserScore", 
+                "text": "Klout_UserScore", 
+                "level": 2, 
+                "isFolder": false, 
+                "children": [], 
+                "select": false, 
+                "cls": ""
+            }, 
+            {
+                "leaf": true, 
+                "title": "Klout_UserTopics", 
+                "checked": false, 
+                "id": "StaticResource.Klout_UserTopics", 
+                "text": "Klout_UserTopics", 
                 "level": 2, 
                 "isFolder": false, 
                 "children": [], 

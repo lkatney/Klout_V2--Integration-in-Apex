@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types>
-        <members>abc</members>
+        <members>Klout</members>
+        <members>KloutTest</members>
         <name>ApexClass</name>
     </types>
-    <version>29.0</version>
+    <types>
+        <members>Klout_UserDetails</members>
+        <members>Klout_UserInfluence</members>
+        <members>Klout_UserScore</members>
+        <members>Klout_UserTopics</members>
+        <name>StaticResource</name>
+    </types>
+    <version>30.0</version>
 </Package>
